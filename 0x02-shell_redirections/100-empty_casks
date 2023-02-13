@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -depth -empty | ls -1
+find . -depth -empty | ls -a -1
